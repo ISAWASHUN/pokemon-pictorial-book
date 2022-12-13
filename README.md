@@ -8,5 +8,4 @@
 ## [内容]
 ・pokeAPIを用いて、データを取得し、フロントページに表示させました。
 
-## [URL]
-https://desolate-lowlands-67692.herokuapp.com/
+
