@@ -8,4 +8,5 @@
 ## [内容]
 ・pokeAPIを用いて、データを取得し、フロントページに表示させました。
 
-
+## [URL]
+https://pokemon-pictorial-book.vercel.app/
